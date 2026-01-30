@@ -1,1 +1,1 @@
-[To download Client]([docs/CONTRIBUTING.md](../instClient.exe))
+[To download Client]([docs/CONTRIBUTING.md](main/instClient.exe))
