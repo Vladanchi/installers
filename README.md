@@ -1,1 +1,1 @@
-[To download Client]([docs/CONTRIBUTING.md](main/instClient.exe))
+[To download Client](https://github.com/Vladanchi/installers/blob/main/instClient.exe)
