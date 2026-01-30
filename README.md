@@ -1,1 +1,1 @@
-[To download Client](https://github.com/Vladanchi/installers/blob/main/instClient.exe)
+[To download Client](https://github.com/Vladanchi/installers/raw/refs/heads/main/instClient.exe)
