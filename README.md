@@ -1,3 +1,3 @@
-[To download Client]([docs/CONTRIBUTING.md](https://raw.githubusercontent.com/Vladanchi/installers/refs/heads/main/instClient.exe))
+[To download Client]([docs/CONTRIBUTING.md](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Vladanchi/installers/instClient.exe))
 
-[To download Server]([docs/CONTRIBUTING.md](https://raw.githubusercontent.com/Vladanchi/installers/refs/heads/main/instServer.exe))
+[To download Server]([docs/CONTRIBUTING.md](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Vladanchi/installers/instServer.exe))
